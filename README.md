@@ -3,16 +3,16 @@
 # Aurora
 
   <p align="center">
-    <a href="https://github.com/sxxsxsg/feishin/blob/development/LICENSE">
-      <img src="https://img.shields.io/github/license/sxxsxsg/feishin?style=flat-square&color=brightgreen"
+    <a href="https://github.com/sxxsxsg/Feishin-Aurora/blob/development/LICENSE">
+      <img src="https://img.shields.io/github/license/sxxsxsg/Feishin-Aurora?style=flat-square&color=brightgreen"
       alt="License">
     </a>
-      <a href="https://github.com/sxxsxsg/feishin/releases">
+      <a href="https://github.com/sxxsxsg/Feishin-Aurora/releases">
       <img src="https://img.shields.io/github/v/release/sxxsxsg/feishin?style=flat-square&color=blue"
       alt="Release">
     </a>
-    <a href="https://github.com/sxxsxsg/feishin/releases">
-      <img src="https://img.shields.io/github/downloads/sxxsxsg/feishin/total?style=flat-square&color=orange"
+    <a href="https://github.com/sxxsxsg/Feishin-Aurora/releases">
+      <img src="https://img.shields.io/github/downloads/sxxsxsg/Feishin-Aurora/total?style=flat-square&color=orange"
       alt="Downloads">
     </a>
   </p>
@@ -32,7 +32,7 @@
 Aurora is a self-use fork of [Feishin](https://github.com/jeffvli/feishin), a rewrite of [Sonixd](https://github.com/jeffvli/sonixd). It keeps the upstream player, library views and settings, and changes only how the client talks to the server and how it identifies itself.
 
 - Upstream base: Feishin `1.17.0`, commit `98dbd79` (development branch, 2026-11-15)
-- This fork: `1.17.1`, branch `development`, repo `sxxsxsg/feishin`
+- This fork: `1.17.1`, branch `development`, repo `sxxsxsg/Feishin-Aurora`
 - Tested by Lu on 2026-11-17: works, no problems found
 
 ## Features
